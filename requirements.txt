@@ -1,0 +1,6 @@
+# R packages used in the analysis
+tidyverse>=1.3.0
+lubridate>=1.7.0
+ggplot2>=3.3.0
+dplyr>=1.0.0
+forecast>=8.0.0
